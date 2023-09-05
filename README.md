@@ -3,7 +3,7 @@
 
 ---
 - [Summary](#summary)
-- [Plugin Features](#Plugin Features)
+- [PluginFeatures](#PluginFeatures)
 - [Install](#Install)
 - [Setup](#setup)
 
