@@ -10,7 +10,7 @@
 ---
 ### Summary
 
-With Remita AbanteCart Payment Plugin, the store admin can easily add all desired payment methods to the AbanteCart webshop. Please refer to https://www.remita.net for an overview of all features and services.
+With Remita AbanteCart Payment Plugin, the store admin can easily add all desired payment methods to the AbanteCart webshop. Please refer to https://www.remita.net for an overview of all features and services
 
 ![](payment-image.png) 
 
